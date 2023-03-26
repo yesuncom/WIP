@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ye Sun @yesuncom
 - 👀 I’m a communication scholar currently working in Hong Kong.
-- 📫 You can reach me via email yesun27@cityu.edu.hk
+- 📫 You can reach me via email ye.sun@cityu.edu.hk
 
 <!---
 yesuncom/yesuncom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
